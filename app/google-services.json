@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792831379069",
+    "project_id": "auth-ba93d",
+    "storage_bucket": "auth-ba93d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792831379069:android:c2658203d1a37da9b9d314",
+        "android_client_info": {
+          "package_name": "com.example.gymmanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792831379069-ad7sqpcv8ua9lonb6fsl7jf0nv1crr32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8G6hppKORbTVJ56Mbzunj_fT2ErrgSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792831379069-ad7sqpcv8ua9lonb6fsl7jf0nv1crr32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
